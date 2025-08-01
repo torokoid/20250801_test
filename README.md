@@ -34,6 +34,11 @@ main {
 section {
   background-color: rgba(0, 225, 0, 0.3);
 }
+
+blockquote {
+  color: #fff;    /* 白文字 */
+}
+  
 /* 点滅 */
 .blinking{
   -webkit-animation:blink 1.5s ease-in-out infinite alternate;
