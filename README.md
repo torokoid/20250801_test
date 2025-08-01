@@ -36,7 +36,7 @@ section {
 }
 
 blockquote {
-  color: #ffffff;    /* 白文字 */
+  color: #fffafa;    /* 白文字 */
 }
   
 /* 点滅 */
