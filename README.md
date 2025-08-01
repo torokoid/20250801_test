@@ -118,14 +118,14 @@ screen and (orientation: landscape) {
   <hr>
   <h2><p><strong>①競泳選手傾向診断</strong></p><br></h2>
   <hr>
-  <h3><span class="white"><blockquote>競泳選手に必要な要素を数値として、選手自身が得手不得手を</blockquote></span></h3><br>
-  <h3><p><blockquote> 把握できて、今後の練習や、モチベーションに反映できる診断書を発行します</blockquote></p></h3><br>
+  <h3><blockquote>競泳選手に必要な要素を数値として、選手自身が得手不得手を</blockquote></h3><br>
+  <h3><blockquote> 把握できて、今後の練習や、モチベーションに反映できる診断書を発行します</blockquote></h3><br>
   <button type="submit">競泳選手傾向診断を受けたい方は<br>こちらをクリック</button>
   <h2><p><strong>②レース動画解析</strong></p></h2><br>
   <hr>
-  <h3><p><blockquote>　大会で撮影されたレース動画を、選手から弊社へご提供いただき</blockquote></p></h3><br>
-  <h3><p><blockquote>　スイム・エクスペリエンスが、一般的な解析と選手の良い点、</blockquote></p></h3><br>
-  <h3><p><blockquote>　今後のレースに生かすための改善点をアドバイスします</blockquote></p></h3><br>
+  <h3><blockquote>　大会で撮影されたレース動画を、選手から弊社へご提供いただき</blockquote></h3><br>
+  <h3><blockquote>　スイム・エクスペリエンスが、一般的な解析と選手の良い点、</blockquote></h3><br>
+  <h3><blockquote>　今後のレースに生かすための改善点をアドバイスします</blockquote></h3><br>
   <button type="submit">レース動画解析を受けたい方は<br>こちらをクリック</button>
   <h3><p>③講習会（準備中）</p></h3><br>
   <hr>
