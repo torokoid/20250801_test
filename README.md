@@ -118,7 +118,7 @@ screen and (orientation: landscape) {
   <hr>
   <h2><p><strong>①競泳選手傾向診断</strong></p><br></h2>
   <hr>
-  <h3><p><blockquote>競泳選手に必要な要素を数値として、選手自身が得手不得手を</blockquote></p></h3><br>
+  <h3><blockquote>競泳選手に必要な要素を数値として、選手自身が得手不得手を</blockquote></h3><br>
   <h3><p><blockquote> 把握できて、今後の練習や、モチベーションに反映できる診断書を発行します</blockquote></p></h3><br>
   <button type="submit">競泳選手傾向診断を受けたい方は<br>こちらをクリック</button>
   <h2><p><strong>②レース動画解析</strong></p></h2><br>
